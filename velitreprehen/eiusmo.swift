@@ -1,0 +1,1 @@
+@Environment(\.colorScheme) var colorScheme
